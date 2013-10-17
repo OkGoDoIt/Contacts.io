@@ -1,0 +1,2 @@
+I'm using GitHub to manage my source code, but this project is not open source.  Don't copy it without permission.
+-Roger Pincombe
